@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sellika-PL/LeetCode-db/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
