@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sellika-PL/LeetCode-db/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -25,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
