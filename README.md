@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/Sellika-PL/LeetCode-db/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sellika-PL/LeetCode-db/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Sellika-PL/LeetCode-db/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Sellika-PL/LeetCode-db/tree/master/0392-is-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sellika-PL/LeetCode-db/tree/master/0350-intersection-of-two-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sellika-PL/LeetCode-db/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
