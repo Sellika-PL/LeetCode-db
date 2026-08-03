@@ -11,6 +11,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Sellika-PL/LeetCode-db/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sellika-PL/LeetCode-db/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sellika-PL/LeetCode-db/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
@@ -61,4 +63,16 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sellika-PL/LeetCode-db/tree/master/0392-is-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+## Combinatorics
+|  |
+| ------- |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+## Prefix Sum
+|  |
+| ------- |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
