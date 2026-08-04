@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sellika-PL/LeetCode-db/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sellika-PL/LeetCode-db/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sellika-PL/LeetCode-db/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sellika-PL/LeetCode-db/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sellika-PL/LeetCode-db/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sellika-PL/LeetCode-db/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sellika-PL/LeetCode-db/tree/master/0283-move-zeroes) |
@@ -36,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sellika-PL/LeetCode-db/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sellika-PL/LeetCode-db/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0977-squares-of-a-sorted-array) |
