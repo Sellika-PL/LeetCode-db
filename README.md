@@ -21,6 +21,7 @@
 | [0088-merge-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sellika-PL/LeetCode-db/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sellika-PL/LeetCode-db/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sellika-PL/LeetCode-db/tree/master/0392-is-subsequence) |
@@ -32,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sellika-PL/LeetCode-db/tree/master/0392-is-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
