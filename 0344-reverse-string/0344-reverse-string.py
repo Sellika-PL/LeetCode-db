@@ -8,4 +8,3 @@ class Solution:
             s[j]=t
             i+=1
             j-=1
-        return s
