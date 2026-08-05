@@ -80,4 +80,8 @@
 |  |
 | ------- |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Sellika-PL/LeetCode-db/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
