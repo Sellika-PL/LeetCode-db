@@ -84,4 +84,5 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Sellika-PL/LeetCode-db/tree/master/0185-department-top-three-salaries) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sellika-PL/LeetCode-db/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
