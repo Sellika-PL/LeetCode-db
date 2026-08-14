@@ -51,6 +51,7 @@
 | [0202-happy-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sellika-PL/LeetCode-db/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/1323-maximum-69-number) |
+| [2235-add-two-integers](https://github.com/Sellika-PL/LeetCode-db/tree/master/2235-add-two-integers) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sellika-PL/LeetCode-db/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
