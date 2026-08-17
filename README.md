@@ -52,6 +52,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sellika-PL/LeetCode-db/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/Sellika-PL/LeetCode-db/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/Sellika-PL/LeetCode-db/tree/master/2469-convert-the-temperature) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sellika-PL/LeetCode-db/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
