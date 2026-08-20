@@ -11,6 +11,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sellika-PL/LeetCode-db/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Sellika-PL/LeetCode-db/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sellika-PL/LeetCode-db/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
