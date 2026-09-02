@@ -54,6 +54,7 @@
 | [0202-happy-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sellika-PL/LeetCode-db/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sellika-PL/LeetCode-db/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Sellika-PL/LeetCode-db/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Sellika-PL/LeetCode-db/tree/master/2469-convert-the-temperature) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -94,4 +95,8 @@
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Sellika-PL/LeetCode-db/tree/master/0185-department-top-three-salaries) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sellika-PL/LeetCode-db/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sellika-PL/LeetCode-db/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
