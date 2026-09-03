@@ -14,6 +14,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sellika-PL/LeetCode-db/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sellika-PL/LeetCode-db/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sellika-PL/LeetCode-db/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -41,6 +42,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sellika-PL/LeetCode-db/tree/master/0392-is-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sellika-PL/LeetCode-db/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
 | ------- |
