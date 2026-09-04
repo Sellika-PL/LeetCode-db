@@ -44,6 +44,7 @@
 | [0709-to-lower-case](https://github.com/Sellika-PL/LeetCode-db/tree/master/0709-to-lower-case) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sellika-PL/LeetCode-db/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Sellika-PL/LeetCode-db/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -102,4 +103,12 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sellika-PL/LeetCode-db/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String Matching
+|  |
+| ------- |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Sellika-PL/LeetCode-db/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Sellika-PL/LeetCode-db/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 <!---LeetCode Topics End-->
