@@ -12,6 +12,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Sellika-PL/LeetCode-db/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sellika-PL/LeetCode-db/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sellika-PL/LeetCode-db/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -59,6 +60,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sellika-PL/LeetCode-db/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sellika-PL/LeetCode-db/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Sellika-PL/LeetCode-db/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Sellika-PL/LeetCode-db/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Sellika-PL/LeetCode-db/tree/master/2652-sum-multiples) |
