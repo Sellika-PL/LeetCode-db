@@ -13,6 +13,7 @@
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Sellika-PL/LeetCode-db/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sellika-PL/LeetCode-db/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1923-longest-common-subpath](https://github.com/Sellika-PL/LeetCode-db/tree/master/1923-longest-common-subpath) |
 | [1929-concatenation-of-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sellika-PL/LeetCode-db/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sellika-PL/LeetCode-db/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1923-longest-common-subpath](https://github.com/Sellika-PL/LeetCode-db/tree/master/1923-longest-common-subpath) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,4 +116,24 @@
 |  |
 | ------- |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Sellika-PL/LeetCode-db/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
+## Rolling Hash
+|  |
+| ------- |
+| [1923-longest-common-subpath](https://github.com/Sellika-PL/LeetCode-db/tree/master/1923-longest-common-subpath) |
+## Suffix Array
+|  |
+| ------- |
+| [1923-longest-common-subpath](https://github.com/Sellika-PL/LeetCode-db/tree/master/1923-longest-common-subpath) |
+## Hash Function
+|  |
+| ------- |
+| [1923-longest-common-subpath](https://github.com/Sellika-PL/LeetCode-db/tree/master/1923-longest-common-subpath) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1923-longest-common-subpath](https://github.com/Sellika-PL/LeetCode-db/tree/master/1923-longest-common-subpath) |
+## Suffix Tree
+|  |
+| ------- |
+| [1923-longest-common-subpath](https://github.com/Sellika-PL/LeetCode-db/tree/master/1923-longest-common-subpath) |
 <!---LeetCode Topics End-->
