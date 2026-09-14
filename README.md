@@ -62,6 +62,7 @@
 | [1323-maximum-69-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sellika-PL/LeetCode-db/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/Sellika-PL/LeetCode-db/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Sellika-PL/LeetCode-db/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Sellika-PL/LeetCode-db/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Sellika-PL/LeetCode-db/tree/master/2469-convert-the-temperature) |
@@ -140,5 +141,18 @@
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Sellika-PL/LeetCode-db/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Sellika-PL/LeetCode-db/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Sellika-PL/LeetCode-db/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Sellika-PL/LeetCode-db/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Sellika-PL/LeetCode-db/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
