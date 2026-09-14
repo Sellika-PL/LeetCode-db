@@ -63,6 +63,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sellika-PL/LeetCode-db/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Sellika-PL/LeetCode-db/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Sellika-PL/LeetCode-db/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Sellika-PL/LeetCode-db/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Sellika-PL/LeetCode-db/tree/master/2652-sum-multiples) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [1923-longest-common-subpath](https://github.com/Sellika-PL/LeetCode-db/tree/master/1923-longest-common-subpath) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Sellika-PL/LeetCode-db/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
