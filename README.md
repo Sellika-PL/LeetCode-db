@@ -66,6 +66,7 @@
 | [2235-add-two-integers](https://github.com/Sellika-PL/LeetCode-db/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Sellika-PL/LeetCode-db/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Sellika-PL/LeetCode-db/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Sellika-PL/LeetCode-db/tree/master/2652-sum-multiples) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sellika-PL/LeetCode-db/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
