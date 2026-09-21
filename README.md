@@ -12,6 +12,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Sellika-PL/LeetCode-db/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sellika-PL/LeetCode-db/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sellika-PL/LeetCode-db/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1923-longest-common-subpath](https://github.com/Sellika-PL/LeetCode-db/tree/master/1923-longest-common-subpath) |
 | [1929-concatenation-of-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1929-concatenation-of-array) |
@@ -44,6 +45,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sellika-PL/LeetCode-db/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Sellika-PL/LeetCode-db/tree/master/0709-to-lower-case) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sellika-PL/LeetCode-db/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sellika-PL/LeetCode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sellika-PL/LeetCode-db/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Sellika-PL/LeetCode-db/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
