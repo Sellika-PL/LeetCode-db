@@ -41,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sellika-PL/LeetCode-db/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sellika-PL/LeetCode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sellika-PL/LeetCode-db/tree/master/0392-is-subsequence) |
@@ -59,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sellika-PL/LeetCode-db/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sellika-PL/LeetCode-db/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Sellika-PL/LeetCode-db/tree/master/1323-maximum-69-number) |
@@ -95,6 +97,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sellika-PL/LeetCode-db/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Sellika-PL/LeetCode-db/tree/master/1929-concatenation-of-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Sellika-PL/LeetCode-db/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Combinatorics
@@ -113,6 +116,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sellika-PL/LeetCode-db/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sellika-PL/LeetCode-db/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String Matching
 |  |
